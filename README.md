@@ -52,3 +52,11 @@ Returns detailed information about a single product by its name.
 GET /products/{product_name}/{product_field}
 Returns the value of a specific field for the given product.
 For example, /products/Big_Mac/calories returns the calories of "Big Mac".
+
+![image](https://github.com/user-attachments/assets/8d117dd3-b360-41b3-827b-addadaee0479)
+![image](https://github.com/user-attachments/assets/2040141a-1416-4799-add0-c19dd527a5b7)
+![image](https://github.com/user-attachments/assets/8ffc9a91-80ef-40ec-bdc3-2a1c5ca5be9f)
+![image](https://github.com/user-attachments/assets/5aff4aa9-aa6e-4557-8b4a-e33d0ee2f2d1)
+
+
+
